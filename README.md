@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on MERN STACK , C++
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: GSoC  
+- 🥅 2024 Goals: GSoC  
 - ⚡ Fun fact: I love to Play  Cricket
  
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=srijansaurabhjha&show_icons=true&theme=radical"/>
