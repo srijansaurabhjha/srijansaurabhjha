@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
  <img src="https://komarev.com/ghpvc/?username=himanshujasuja1040" alt="Himanshu" />
  
-- 🔭 I’m currently working on MERN STACK , C++
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: GSoC  
-- ⚡ Fun fact: I love to Play  Cricket
+- 🔭 I’m currently working on MERN STACK , JAVA 
+- 🥅 2024 Goals: building some awesome projects
  
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=srijansaurabhjha&show_icons=true&theme=radical"/>
 
